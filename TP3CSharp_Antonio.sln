@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3CSharp", "TP3_WEB_CSharp\TP3CSharp.csproj", "{001B08FF-7C14-4758-B40B-31FDDA797D5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001B08FF-7C14-4758-B40B-31FDDA797D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001B08FF-7C14-4758-B40B-31FDDA797D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001B08FF-7C14-4758-B40B-31FDDA797D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001B08FF-7C14-4758-B40B-31FDDA797D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6785951C-511C-4647-A669-F28D52003B6E}
+	EndGlobalSection
+EndGlobal
